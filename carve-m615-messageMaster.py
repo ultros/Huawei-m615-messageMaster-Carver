@@ -2,7 +2,7 @@ from physical import *
 import binascii
 count = 0
 
-''' contact@nsa.sh; 8/19/2014
+''' contact@nsa.sh 8/19/2014; realjesseshelley@gmail.com 2/4/2019
 This script will carve some message
 data from:
 - m615 Huawei Pillar Prepaid Cellphone Cricket
